@@ -129,3 +129,102 @@
 	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/91886.m3u8
 	#EXTINF:-1,FR: BFM Business HD
 	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/96129.m3u8
+#EXTINF:-1,beIN Sport 1 ID
+ https://dl.dropbox.com/s/1r9ccnjuh1yyznm/beib1.m3u8?dl=0
+#EXTINF:-1,beIN Sport 2 ID
+ https://dl.dropbox.com/s/tjlkcxhgdb29dul/beib2.m3u8?dl=0
+#EXTINF:-1,Fox Sport 1
+ https://dl.dropbox.com/s/rlbh9h2rbzn2u1m/foxsport1.m3u8?dl=0
+#EXTINF:-1,Fox Sport 2
+ https://dl.dropbox.com/s/8do2ge2qhjurgca/foxsport2.m3u8?dl=0
+#EXTINF:-1,Fox Sport 3
+ https://dl.dropbox.com/s/9qxu4a3oh6epn9e/foxsport3.m3u8?dl=0
+#EXTINF:-1,SportOne
+ http://203.153.218.26:9981/stream/channelid/896549830? ticket=850CB8B4F21CDAC9C37DCE88D1DE5CE510F8B361&profile=pass 
+#EXTINF:-1,Ad Sports 1
+ http://adtv.ercdn.net:80/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1,Ad Sports 2
+ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+ #EXTINF:-1,Ad Sports 3
+ https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8?v=856623187
+
+#EXTINF:-1,Ad Sports 4
+ https://tvae.ercdn.net/adsport4/adsport4_720p.m3u8?v=839379210 
+#EXTINF:-1,Al Kass Sports 1
+ http://alkasmsl4.akamaized.net:80/hls/live/2003123/alkassone1/master570.m3u8
+ #EXTINF:-1,Al Kass Sports 2
+ http://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwo/master570.m3u8
+ #EXTINF:-1,All Sports
+ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?
+ #EXTINF:-1,Arryadia tv
+ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadiaavc1_1500000=4-mp4a_130400_qad=1.m3u
+8 #EXTINF:-1,ATG TV
+ http://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8? 
+#EXTINF:-1,beIN Sports USA
+ http://185.246.209.109:8080/BEIN1/tracks-v1a1/mono.m3u8
+ #EXTINF:-1,BT Sport 1
+ https://sportbar.biz/lba/ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=/g2/btuk1.m3u8 ? token=ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=&id=MDcyYzA4YTZhMTUzZTM1ZGFmOWVjM jA1NzkyNjU0ODA=&vip=1566693742&dip=MmRmMjIxNmY2YmVjMDg1Zjk4MzhjMDJkOWE5ZTViZjg=&pip =36.71.232.85&hip=NWQ5MTQ1ZTcyNDIwYzIyZTVmZjg5MmUwZDE2NDhiOTg=
+ #EXTINF:-1,BT Sport 2
+ https://sportbar.biz/lba/ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=/g3/ukbt2sport .m3u8? token=ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=&id=MDcyYzA4YTZhMTUzZTM1ZGFmOWVjM jA1NzkyNjU0ODA=&vip=1566694008&dip=YWRjNjY5YmRmZjdiN2M1ZTRlYjU2ZTgwYzAzZWUzYWU=&pip =36.71.232.85&hip=NWQ5MTQ1ZTcyNDIwYzIyZTVmZjg5MmUwZDE2NDhiOTg=
+ #EXTINF:-1,BT Sport ESPN
+ https://sportbar.biz/lba/ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=/g7/btse.m3u8? token=ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=&id=MDcyYzA4YTZhMTUzZTM1ZGFmOWVjM jA1NzkyNjU0ODA=&vip=1566694041&dip=YWM2NmFhMDQ0MTkwYmJhNjEyZThhOGY4MmY1NzU4YmM=&pip =36.71.232.85&hip=NWQ5MTQ1ZTcyNDIwYzIyZTVmZjg5MmUwZDE2NDhiOTg=
+ #EXTINF:-1,CCTV 5
+ http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/index.m3u8 
+#EXTINF:-1,CCTV 5+
+ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8 
+#EXTINF:-1,CCTV Sports
+ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
+ #EXTINF:-1,Dubai Sports 1
+ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8? 
+#EXTINF:-1,Dubai Sports 2
+ http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8? 
+#EXTINF:-1,Edge Sport
+
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AAedgesports/CDN/1920x1080_5628000/index.m3u8 
+#EXTINF:-1,Eurosport 1
+ https://sportbar.biz/lba/ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=/g5/eurosport1 rus.m3u8? token=ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=&id=MDcyYzA4YTZhMTUzZTM1ZGFmOWVjM jA1NzkyNjU0ODA=&vip=1566695327&dip=YmEzMGY2ZTU5MTBmYTIwMDNhOGJlOTdlYTlmOGE2Mjk=&pip =36.71.232.85&hip=NWQ5MTQ1ZTcyNDIwYzIyZTVmZjg5MmUwZDE2NDhiOTg=
+ #EXTINF:-1,Eurosport 2
+ https://sportbar.biz/lba/ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=/g2/ruseuro2.m 3u8? token=ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=&id=MDcyYzA4YTZhMTUzZTM1ZGFmOWVjM jA1NzkyNjU0ODA=&vip=1566695413&dip=MTAwZTUyMzNlNDRlNzRiOTk1ZmFiYTZlNjYyZjg2OTM=&pip =36.71.232.85&hip=NWQ5MTQ1ZTcyNDIwYzIyZTVmZjg5MmUwZDE2NDhiOTg=
+ #EXTINF:-1,Fight Sports
+ http://210.210.155.35/uq2663/h/h05/01.m3u8?
+ #EXTINF:-1,FS1
+ http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
+#EXTINF:-1,iDMAN Sport
+ http://streams.livetv.az/azerbaijan/idman2_stream/playlist.m3u8?
+#EXTINF:-1,Inter TV
+ https://1.ip2stream.icu/live/inter_channel/playlist.m3u8 
+#EXTINF:-1,JTBC3 FOX Sports
+ http://122.129.115.21:1935/edgedol/_definst_/live03/chunklist_w1228341103.m3u8
+ #EXTINF:-1,KBS N Sports
+ http://122.129.115.21:1935/edgedol/_definst_/tao123/playlist.m3u8 
+#EXTINF:-1,KTV Sport
+ https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist_b2000000.m3u8? v=609289825 
+#EXTINF:-1,Match!
+ http://gorod.tv/s/live/3/10.125.96.99/1528357360502/0.m3u8 
+#EXTINF:-1,Match Football 1
+http://188.35.9.11:2025
+ #EXTINF:-1,Match Football 2 
+http://188.35.9.11:2026
+ #EXTINF:-1,Match Football 3 
+http://188.35.9.11:2027
+ #EXTINF:-1,Milan TV
+ https://1.ip2stream.icu/live/milan_channel/playlist.m3u8? 
+#EXTINF:-1,MLB Network http://mlbliveakc.mlb.com:80/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_S TREAM_1_MLBN_Linear_Stream_Tuesday_20190820_1566282273763/3000K/3000_slide.m3u8
+
+#EXTINF:-1,MSG
+ http://185.246.209.109:8080/MSG/index.m3u8
+ #EXTINF:-1,NHL Network
+ http://185.246.209.109:8080/NHL_NETWORK/index.m3u8 
+#EXTINF:-1,NWCT 12
+ http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+ #EXTINF:-1,QazSports
+ https://sportbar.biz/lba/NGI5NGY5NzgwYWIxNmJhNTQ1ZDkzNmFiMmY3ZDg4MDI=/g4/qazsportkz .m3u8? token=NGI5NGY5NzgwYWIxNmJhNTQ1ZDkzNmFiMmY3ZDg4MDI=&id=ZTliNGJlOWVhMDE2ODNmYjg0ZWMzO TYxMDc2ODU2YzM=&vip=1566610801&dip=Y2Y3NzY4OTU2YWZjZTM1ODUyZWNlNmM5OGMxNzU1NmE=&pip =36.71.232.85&hip=NWQ5MTQ1ZTcyNDIwYzIyZTVmZjg5MmUwZDE2NDhiOTg=
+ #EXTINF:-1,Real Madrid TV
+ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8? 
+#EXTINF:-1,Setanta Sports
+ http://ott-cdn.ucom.am/s81/03.m3u8
+ #EXTINF:-1,Setanta Sports Eurasia
+ https://sportbar.biz/lba/ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=/g8/setantarus .m3u8? token=ZmZjMDA2N2QwMzA0ZjdmOTMzYzZhMjUxZTE3YjgzMWM=&id=MDcyYzA4YTZhMTUzZTM1ZGFmOWVjM jA1NzkyNjU0ODA=&vip=1566695450&dip=NTUzYTA1ZjhiZDNlNmY3ZjQ3Yjg4YjcxMzA2ZWEyMmU=&pip =36.71.232.85&hip=NWQ5MTQ1ZTcyNDIwYzIyZTVmZjg5MmUwZDE2NDhiOTg=
+ #EXTINF:-1,Sky Sport Korea
+ http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
+
