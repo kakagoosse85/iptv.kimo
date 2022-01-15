@@ -1,53 +1,131 @@
 #EXTM3U
-#EXTINF:-1,AXN HD
-http://181.198.67.10:8024/play/a08n/index.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://181.198.67.10:8024/play/a0ai/index.m3u8
-#EXTINF:-1,Comedy Central HD
-http://181.198.67.10:8024/play/a09a/index.m3u8
-#EXTINF:-1,Discovery H&H HD
-http://181.198.67.10:8024/play/a09u/index.m3u8
-#EXTINF:-1,Discovery Theater HD
-http://181.198.67.10:8024/play/a09v/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://181.198.67.10:8024/play/a0ag/index.m3u8
-#EXTINF:-1,ElCanaldelFutbol HD
-http://181.198.67.10:8024/play/a0b5/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
-http://181.198.67.10:8024/play/a0a1/index.m3u8
-#EXTINF:-1,GolTV HD
-http://181.198.67.10:8024/play/a0ay/index.m3u8
-#EXTINF:-1,Golden HD
-http://181.198.67.10:8024/play/a0at/index.m3u8
-#EXTINF:-1,HBO Signature HD
-http://181.198.67.10:8024/play/a09n/index.m3u8
-#EXTINF:-1,History 2 HD
-http://181.198.67.10:8024/play/a0bh/index.m3u8
-#EXTINF:-1,History Channel HD
-http://181.198.67.10:8024/play/a08j/index.m3u8
-#EXTINF:-1,Las Estrellas HD
-http://181.198.67.10:8024/play/a0ba/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
-http://181.198.67.10:8024/play/a0ar/index.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://181.198.67.10:8024/play/a09w/index.m3u8
-#EXTINF:-1,Paramount HD
-http://181.198.67.10:8024/play/a0aj/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://181.198.67.10:8024/play/a090/index.m3u8
-#EXTINF:-1,Playboy HD
-http://181.198.67.10:8024/play/a0a3/index.m3u8
-#EXTINF:-1,STAR ACTION HD
-http://181.198.67.10:8024/play/a0bn/index.m3u8
-#EXTINF:-1,STAR ACTION HD
-http://181.198.67.10:8024/play/a0bd/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://181.198.67.10:8024/play/a09x/index.m3u8
-#EXTINF:-1,STAR COMEDY HD
-http://181.198.67.10:8024/play/a0be/index.m3u8
-#EXTINF:-1,STAR FUN HD
-http://181.198.67.10:8024/play/a08v/index.m3u8
-#EXTINF:-1,STAR HITS HD
-http://181.198.67.10:8024/play/a0bf/index.m3u8
-#EXTINF:-1,STAR SERIES HD
-http://181.198.67.10:8024/play/a0a2/index.m3u8
+	#EXTINF:-1,FR: RMC SPORT 1 FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208687.m3u8
+	#EXTINF:-1,FR: RMC SPORT 2 FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208689.m3u8
+	#EXTINF:-1,FR: RMC SPORT 3 FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208691.m3u8
+	#EXTINF:-1,FR: RMC SPORT 4 FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208693.m3u8
+	#EXTINF:-1,FR: TRACE Kitoko
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/199158.m3u8
+	#EXTINF:-1,FR: TRACE LATINA
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208205.m3u8
+	#EXTINF:-1,FR: TRACE Mziki HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/114964.m3u8
+	#EXTINF:-1,FR: TRACE Naija HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/114965.m3u8
+	#EXTINF:-1,FR: TRACE Toca HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/192987.m3u8
+	#EXTINF:-1,FR: TRACE TOPICAL
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/103086.m3u8
+	#EXTINF:-1,FR: TRACE URBAN FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/86443.m3u8
+	#EXTINF:-1,FR: VH1 CLASSIC
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/160347.m3u8
+	#EXTINF:-1,FR: beIN Sports 1 FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/198126.m3u8
+	#EXTINF:-1,FR: beIN Sports 2 FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/198131.m3u8
+	#EXTINF:-1,FR: beIN Sports 3 FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/198125.m3u8
+	#EXTINF:-1,FR: GRAND LILLE HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/100256.m3u8
+	#EXTINF:-1,FR: LUXE TV HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/88558.m3u8
+	#EXTINF:-1,FR: M6 MUSIC HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65676.m3u8
+	#EXTINF:-1,FR: MCM TOP HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/163519.m3u8
+	#EXTINF:-1,FR: MotorSport HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/150349.m3u8
+	#EXTINF:-1,FR: MTV HITS FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65694.m3u8
+	#EXTINF:-1,FR: NOLLYWOOD FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/139956.m3u8
+	#EXTINF:-1,FR: NRJ 12 FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/150764.m3u8
+	#EXTINF:-1,FR: NRJ HIT HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/62288.m3u8
+	#EXTINF:-1,FR: onge Comment CEst Fait HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/128286.m3u8
+	#EXTINF:-1,###### FRANCE ######
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/213557.m3u8
+	#EXTINF:-1,FR: 13EME RUE HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/98157.m3u8
+	#EXTINF:-1,FR: 6TER HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/126499.m3u8
+	#EXTINF:-1,FR: A LA CARTE 1
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/87485.m3u8
+	#EXTINF:-1,FR: A LA CARTE 2
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/119366.m3u8
+	#EXTINF:-1,FR: A LA CARTE 3
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65846.m3u8
+	#EXTINF:-1,FR: A LA CARTE 4
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/158103.m3u8
+	#EXTINF:-1,FR: A LA CARTE 5
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/119367.m3u8
+	#EXTINF:-1,FR: A LA CARTE 6
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/158104.m3u8
+	#EXTINF:-1,FR: A LA CARTE 7
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/63572.m3u8
+	#EXTINF:-1,FR: A LA CARTE 8
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/88640.m3u8
+	#EXTINF:-1,FR: A LA CARTE 9
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/88641.m3u8
+	#EXTINF:-1,FR: A LA CARTE 10
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/87494.m3u8
+	#EXTINF:-1,FR: A LA CARTE 11
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/88642.m3u8
+	#EXTINF:-1,FR: AB EXPLORE HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208160.m3u8
+	#EXTINF:-1,FR: AB1 FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65831.m3u8
+	#EXTINF:-1,FR: AB3 FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65830.m3u8
+	#EXTINF:-1,FR: ACTION FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/62340.m3u8
+	#EXTINF:-1,FR: Alpha Ju HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/91158.m3u8
+	#EXTINF:-1,FR: Alsace 20 HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/65703.m3u8
+	#EXTINF:-1,FR: ALTICE STUDIO FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/88506.m3u8
+	#EXTINF:-1,FR: ANIMAUX FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/62339.m3u8
+	#EXTINF:-1,FR: ANIMAUX HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/198648.m3u8
+	#EXTINF:-1,FR: Antenne Reunion
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/155685.m3u8
+	#EXTINF:-1,FR: ARTE HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/157241.m3u8
+	#EXTINF:-1,FR: Assemble Nationale
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/213835.m3u8
+	#EXTINF:-1,FR: AUTOMOTO HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208210.m3u8
+	#EXTINF:-1,FR: BE CURIOUS
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/208185.m3u8
+	#EXTINF:-1,FR: beIN Sports 1 HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/62335.m3u8
+	#EXTINF:-1,FR: beIN Sports 2 HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/62336.m3u8
+	#EXTINF:-1,FR: beIN Sports 3 HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/63602.m3u8
+	#EXTINF:-1,FR: beIN Sports max 4 HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/160280.m3u8
+	#EXTINF:-1,FR: beIN Sports Max 5 HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/160281.m3u8
+	#EXTINF:-1,FR: beIN Sports Max 6 HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/160282.m3u8
+	#EXTINF:-1,FR: beIN Sports Max 7 HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/74988.m3u8
+	#EXTINF:-1,FR: beIN Sports MAX 8 HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/160284.m3u8
+	#EXTINF:-1,FR: beIN Sports MAX 9 HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/160285.m3u8
+	#EXTINF:-1,FR: beIN Sports Max 10 HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/164422.m3u8
+	#EXTINF:-1,FR: BET FHD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/91886.m3u8
+	#EXTINF:-1,FR: BFM Business HD
+	http://dibo.live:8080/live/Ftz4SwuItU/EriObNze6W/96129.m3u8
