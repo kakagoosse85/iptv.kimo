@@ -264,19 +264,27 @@ http://yassooo.com:8080/Manaf/Manaf123/98920
 
 #EXTINF:-1,SSC5 HD 
 http://s2.famousiptv.com:8080/sultan/sultan123/80042
-#EXTINF:-1,eti HD 
-http://s2.famousiptv.com:8080/sultan/sultan123/80041
-#EXTINF:-1,zft HD 
-http://s2.famousiptv.com:8080/sultan/sultan123/80040
-#EXTINF:-1,SSC5 HD 
-http://s2.famousiptv.com:8080/sultan/sultan123/80039
-#EXTINF:-1,dft HD 
-http://s2.famousiptv.com:8080/sultan/sultan123/80038
-#EXTINF:-1,zwd HD 
-http://s2.famousiptv.com:8080/sultan/sultan123/80037
-#EXTINF:-1,fgt HD 
-http://s2.famousiptv.com:8080/sultan/sultan123/80036
-#EXTINF:-1,fgt HD 
-http://s2.famousiptv.com:8080/sultan/sultan123/80035
-#EXTINF:-1,fgg HD 
-http://s2.famousiptv.com:8080/sultan/sultan123/80034
+
+
+EXTINF:1,1vkff
+	http://yassooo.com:8080/Manaf/Manaf123/8000
+	#EXTINF:-1,1fflm
+	http://yassooo.com:8080/Manaf/Manaf123/8001
+	#EXTINF:-1,1fklof
+	http://yassooo.com:8080/Manaf/Manaf123/80002
+	#EXTINF:-1,1gjuff
+	http://yassooo.com:8080/Manaf/Manaf123/80003
+	#EXTINF:-1,HHH
+	http://yassooo.com:8080/Manaf/Manaf123/80004
+	#EXTINF:-1,duo
+	http://yassooo.com:8080/Manaf/Manaf123/80005
+	#EXTINF:-1,mplo
+	http://yassooo.com:8080/Manaf/Manaf123/80006
+	#EXTINF:-1,ckk
+	http://yassooo.com:8080/Manaf/Manaf123/80007
+	#EXTINF:-1,1pjh
+	http://yassooo.com:8080/Manaf/Manaf123/80008
+	#EXTINF:-1,hfxm
+	http://yassooo.com:8080/Manaf/Manaf123/80009
+	#EXTINF:-1,vxx
+	http://yassooo.com:8080/Manaf/Manaf123/80010
