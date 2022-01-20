@@ -1,4 +1,20 @@
 #EXTM3U
+
+#EXTINF:-1,SPORT TV 1 HD
+http://194.76.186.56:8000/play/a09i/index.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://194.76.186.56:8000/play/a09j/index.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://194.76.186.56:8000/play/a09k/index.m3u8
+#EXTINF:-1,SPORT TV 4
+http://194.76.186.56:8000/play/a0ao/index.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://194.76.186.56:8000/play/a0eh/index.m3u8
+#EXTINF:-1,SPORT TV+ **NOS**
+http://194.76.186.56:8000/play/a0d5/index.m3u8
+
+***************
+
 #EXTINF:-1,1vkff
 http://yassooo.com:8080/Manaf/Manaf123/80275
 #EXTINF:-1,1fflm
