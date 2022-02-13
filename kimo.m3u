@@ -1,347 +1,176 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM SD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2541?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 PREMIUM HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Sport",beIN Sports 4 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/7?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports News HD
+http://red.ipfox.org:8080/1234/12345678/35068?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Sport",beIN Sport HD
+http://red.ipfox.org:8080/1234/12345678/35067?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 PREMIUM 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114051?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Sport",beIN Sports 7 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108170?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Sport",beIN Sports 5 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108168?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Sport",beIN Sports 6 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108169?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports Global HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/28938?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="Sport",beIN Sports Nba HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3845?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 1 HEVC
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117123?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_1
+http://smartestv.vip:2095/ABHVYOP/2387998104/980?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_2
+http://smartestv.vip:2095/ABHVYOP/2387998104/981?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_3
+http://smartestv.vip:2095/ABHVYOP/2387998104/982?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 4 Champions League HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195431?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 5 Champions League HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195430?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS MAX 6 Champions League HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195429?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 7 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/232?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 8 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/233?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeIN Sport Max 9 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/6582?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Sport",BeIN Sport Max 10 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/6583?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 1 Full HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32835?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 2 Full HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32836?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 3 Full HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32837?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",FR (HEVC) - RMC SPORT 4 Full HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32838?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151082?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD3
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151083?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD4
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151084?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAl+ HD Champions
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184828?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL_SPORT_HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/853?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Canal+ Sport 1
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90096?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Sport",Canal+ Sport 2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90102?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanalPlusSport3.pl" group-title="Sport",Canal+ Sport 3
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90101?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanalPlusSport4.pl" group-title="Sport",Canal+ Sport 4
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90100?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/138137?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Sport",SKY SPORTS ACTION FHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50277?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS FHD PREMIER LEAGUE
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10517?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/138134?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE
+http://vmp343.ddnsking.com:80/pari/pari/549002?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportSerieA.it" group-title="Sport",SKY SPORT SERIE A SD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/41044?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 1
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150633?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 6
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150638?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 4
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150636?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 01 HD++
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167203?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 02 HD++
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167202?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 03 HD++
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167201?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD1+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151563?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD2+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151564?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD3+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151565?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SSC SPORTS HD 3
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150635?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="BeinLaLiga.es" group-title="SPAIN",beIN LA LIGA
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/21011?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",BEIN LALIGA1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117059?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 2  HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/61586?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 3 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/61589?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",beIN LA LIGA 4 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/118929?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DAZN209.it" group-title="SPAIN",DAZN 1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117071?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",DAZN 2 HD VIP ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683545?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",La Liga TV BAR HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/669971?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD1
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10069?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10070?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD3
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10127?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD5
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10129?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD6
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10130?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD7
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10131?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 11
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149975?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 10
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149974?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga de Campeones 16
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/157086?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",Movistar Liga De Campeones FHD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/620686?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",Movistar Liga De Campeones HD ES
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/620685?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",Canal+ Premier League HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114146?checkedby:iptvcat.com
 
 
+#EXTINF:0 tvg-id="Barca.pt" group-title="SPAIN",BARCA TV
+http://test456.space:8080/g2020/2020g/77882?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="SPAIN",REAL MADRID  TV
+http://hdlocal.de:8080/Wallas/Wallas/3143?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",------- AFL & Optus Sports -------
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683279
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Optus Sport HD VIP AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683977
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Optus 2 [Match Time] HD VIP AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683987
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Optus 3 [Match Time] HD VIP AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683979
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Optus 4 [Match Time] HD VIP AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683980
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Optus 5 [Match Time] HD VIP AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683981
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Optus 6 [Match Time] HD VIP AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683982
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",AFL 1 HD [Match Time] HD AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683270
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",AFL 2 HD [Match Time] HD AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683271
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",AFL 3 HD [Match Time] HD AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683272
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",AFL 4 HD [Match Time] HD AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683273
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",AFL 5 HD [Match Time] HD AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683274
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",NRL Live 1 HD [Match Time] AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686905
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",NRL Live 2 HD [Match Time] AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686906
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",NRL Live 3 HD [Match Time] AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686907
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",NRL Live 4 HD [Match Time] AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686908
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",NRL Live 5 HD [Match Time] AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686909
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Fox Sports News AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686914
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Fox Sports 501 AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686915
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Fox Sports 502 FHD AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686916
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Fox Sports 503 HD AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686917
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Fox Sports 504 HD AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686918
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Fox Sports 505 HD AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686919
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Fox Sports 506 AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686920
-#EXTINF:0 tvg-id="ext" group-title="AFL & Optus Sports",Fox Sports 507 AU
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686921
+#EXTINF:0 tvg-id="SkySport251.it" group-title="ITALY",SKY CALCIO 1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68603?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySport252.it" group-title="ITALY",SKY CALCIO 2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68606?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySport253.it" group-title="ITALY",SKY CALCIO 3 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68609?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySport254.it" group-title="ITALY",SKY CALCIO 4 SD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68613?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySport255.it" group-title="ITALY",SKY CALCIO 5 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68615?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="ITALY",SKY DAZN BAR HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/51836?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",-------  beIN Sports AR -------
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682924
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports Global FHD AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/688155
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports News FHD AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/676904
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 1 [HEVC] FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/678748
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 1 FHD AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682932
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 2 [HEVC] FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5481
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 2 FHD AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682933
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 3 [HEVC] FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5480
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 3 FHD AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682934
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 4 [HEVC] FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5479
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 5 [HEVC] FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682935
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 5 FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5478
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 6 [HEVC] FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/54777
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 7 [HEVC] FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683135
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports 7 FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5476
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports Premium 1 FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/53432
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports Premium 1 HD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/688156
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports Premium 2 FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/688157
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports Premium 2 HD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5474
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports Premium 3 FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5473
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports Premium 3 HD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/691817
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",Bein Sports MAX 1 FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/693748
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",Bein Sports MAX 1 HD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/693750
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",Bein Sports MAX 2 FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/693749
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",Bein Sports MAX 2 HD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/693751
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports Xtra 1 FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/667466
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports Xtra 2 HD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/689266
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports English 1 FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/689287
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports English 2 FHD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/689288
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports AR",beIN Sports English 3 HD VIP AR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/689289
-
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports US",------- beIN Sports US -------
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682938
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports US",beIN Sports FHD US
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682942
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports US",beIN Sports Espanol HD VIP US
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/678747
-
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports TR",------- beIN Sports TR -------
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682925
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports TR",beIN Sports Haber HD TR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682950
-#EXTINF:0 tvg-id="LIGTV.tr" group-title="beIN Sports TR",beIN Sports 1 HD TR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682946
-#EXTINF:0 tvg-id="LIGTV2.tr" group-title="beIN Sports TR",beIN Sports 2 FHD TR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682947
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports TR",beIN Sports 3 VIP TR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682948
-#EXTINF:0 tvg-id="LIGTV4.tr" group-title="beIN Sports TR",beIN Sports 4 FHD TR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682949
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports TR",beIN Sports Max 1 HD VIP TR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682953
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports TR",beIN Sports Max 2 HD VIP TR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682954
-
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports FR",------- beIN Sports FR -------
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682926
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="beIN Sports FR",beIN Sports 1 HD FR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682943
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="beIN Sports FR",beIN Sports 2 HD FR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682944
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="beIN Sports FR",beIN Sports 3 SD FR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682945
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports FR",beIN Sports Max 4 HD FR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5470
-#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="beIN Sports FR",beIN Sports Max 5 FR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/53604
-#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="beIN Sports FR",beIN Sports Max 6 FR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/625242
-#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="beIN Sports FR",beIN Sports Max 7 FR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/54678
-#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="beIN Sports FR",beIN Sports Max 8 FR
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5466
-#EXTINF:0 tvg-id="ext" group-title="Sports",########## Sports ##########
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5427
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686359
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 1 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686256
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 1 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686257
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 2 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686259
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 3 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686260
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 4 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686261
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 5 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686262
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 6 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686264
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 7 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686265
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 8 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686266
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 9 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686267
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Calcio FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686236
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Calcio HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686237
-#EXTINF:0 tvg-id="SkySport251.it" group-title="Sports",Sky Calcio 1 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686238
-#EXTINF:0 tvg-id="SkySport251.it" group-title="Sports",Sky Calcio 1 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686239
-#EXTINF:0 tvg-id="SkySport252.it" group-title="Sports",Sky Calcio 2 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686240
-#EXTINF:0 tvg-id="SkySport252.it" group-title="Sports",Sky Calcio 2 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686241
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Uno FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686213
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Uno HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686214
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Arena FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686215
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Arena HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686216
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Football FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686217
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Football HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686218
-#EXTINF:0 tvg-id="SKYSport24.it" group-title="Sports",Sky Sport 24 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686211
-#EXTINF:0 tvg-id="SKYSport24.it" group-title="Sports",Sky Sport 24 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686212
-#EXTINF:0 tvg-id="SkySportF1.it" group-title="Sports",Sky Sport F1 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686225
-#EXTINF:0 tvg-id="SkySportF1.it" group-title="Sports",Sky Sport F1 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686227
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Moto GP FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686219
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Moto GP HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686220
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport NBA FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686223
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport NBA HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686224
-#EXTINF:0 tvg-id="ext" group-title="Sports",Eurosport 1 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686228
-#EXTINF:0 tvg-id="ext" group-title="Sports",Eurosport 1 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686230
-#EXTINF:0 tvg-id="esp2" group-title="Sports",Eurosport 2 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686231
-#EXTINF:0 tvg-id="esp2" group-title="Sports",Eurosport 2 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686232
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sport Italia IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686233
-#EXTINF:0 tvg-id="ext" group-title="Sports",Supertennis HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686282
-#EXTINF:0 tvg-id="ext" group-title="Sports",Supertennis FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686281
-#EXTINF:0 tvg-id="ext" group-title="Sports",Inter Channel FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686275
-#EXTINF:0 tvg-id="ext" group-title="Sports",Roma Channel FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686276
-#EXTINF:0 tvg-id="ext" group-title="Sports",Lazio Style IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686277
-#EXTINF:0 tvg-id="ext" group-title="Sports",Rai Sport+ FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686209
-#EXTINF:0 tvg-id="ext" group-title="Sports",Rai Sport+ HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686210
-#EXTINF:0 tvg-id="ext" group-title="Sports",Uniresat IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686283
-#EXTINF:0 tvg-id="ext" group-title="Sports",Top Calcio 24 IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686279
-
-################÷
-
-#EXTINF:0 tvg-id="ext" group-title="Sports",########## Sports ##########
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5427
-#EXTINF:0 tvg-id="ext" group-title="Sports",------ Sports ------
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686359
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 1 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686256
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 1 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686257
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 2 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686259
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 3 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686260
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 4 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686261
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 5 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686262
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 6 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686264
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 7 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686265
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 8 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686266
-#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 9 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686267
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Calcio FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686236
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Calcio HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686237
-#EXTINF:0 tvg-id="SkySport251.it" group-title="Sports",Sky Calcio 1 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686238
-#EXTINF:0 tvg-id="SkySport251.it" group-title="Sports",Sky Calcio 1 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686239
-#EXTINF:0 tvg-id="SkySport252.it" group-title="Sports",Sky Calcio 2 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686240
-#EXTINF:0 tvg-id="SkySport252.it" group-title="Sports",Sky Calcio 2 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686241
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Uno FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686213
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Uno HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686214
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Arena FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686215
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Arena HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686216
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Football FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686217
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Football HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686218
-#EXTINF:0 tvg-id="SKYSport24.it" group-title="Sports",Sky Sport 24 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686211
-#EXTINF:0 tvg-id="SKYSport24.it" group-title="Sports",Sky Sport 24 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686212
-#EXTINF:0 tvg-id="SkySportF1.it" group-title="Sports",Sky Sport F1 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686225
-#EXTINF:0 tvg-id="SkySportF1.it" group-title="Sports",Sky Sport F1 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686227
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Moto GP FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686219
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Moto GP HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686220
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport NBA FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686223
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport NBA HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686224
-#EXTINF:0 tvg-id="ext" group-title="Sports",Eurosport 1 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686228
-#EXTINF:0 tvg-id="ext" group-title="Sports",Eurosport 1 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686230
-#EXTINF:0 tvg-id="esp2" group-title="Sports",Eurosport 2 FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686231
-#EXTINF:0 tvg-id="esp2" group-title="Sports",Eurosport 2 HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686232
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sport Italia IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686233
-#EXTINF:0 tvg-id="ext" group-title="Sports",Supertennis HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686282
-#EXTINF:0 tvg-id="ext" group-title="Sports",Supertennis FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686281
-#EXTINF:0 tvg-id="ext" group-title="Sports",Inter Channel FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686275
-#EXTINF:0 tvg-id="ext" group-title="Sports",Roma Channel FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686276
-#EXTINF:0 tvg-id="ext" group-title="Sports",Lazio Style IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686277
-#EXTINF:0 tvg-id="ext" group-title="Sports",Rai Sport+ FHD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686209
-#EXTINF:0 tvg-id="ext" group-title="Sports",Rai Sport+ HD IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686210
-#EXTINF:0 tvg-id="ext" group-title="Sports",Uniresat IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686283
-#EXTINF:0 tvg-id="ext" group-title="Sports",Top Calcio 24 IT
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/686279
+#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156500?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC3 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156501?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",SPO: SSC7 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156505?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",AD ASIA LIVE event 1
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156103?checkedby:iptvcat.com
 
 
 
